@@ -32,7 +32,7 @@ The dashboard provides an interactive view of key business metrics and helps ide
 
 ## 📊 Dashboard
 
-![Amazon Sales Dashboard](images/Amazon%20Sales%20Dashboard.png)
+![Amazon Sales Dashboard](Amazon%20Sales%20Dashboard.png)
 
 ## 📁 Project Structure
 
